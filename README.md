@@ -1,10 +1,10 @@
 # Chat-Application
 
-A simple chat application using socket programming in Java.
+A simple chat application using Socket Programming in Java.
 
 Features:
   1. One can send files and images too.
-  2. If server is disconnected, it will show message that friend is offline.
+  2. If server is disconnected, it will show message that the friend is offline.
   3. Large files can also be sent.
 
 Step 1: Run start.java file for creating server first.
